@@ -1,0 +1,6 @@
+{
+  "name": "RainRoute: Smart Flood-Safe Navigation",
+  "description": "Smart flood-safe navigation system providing real-time waterlogging detection, alternative safe routing, community reports, and emergency SOS during heavy monsoons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
